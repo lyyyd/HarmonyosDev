@@ -1,0 +1,12 @@
+{
+ "1.0.0": {
+  "LastPreviewDevice": {
+   "C:\\Users\\lyyyd\\Desktop\\HarmonyosDev\\HMtest\\entry\\.preview\\intermediates\\res\\debug": [
+    "phone",
+    "tablet",
+    "tv",
+    "wearable"
+   ]
+  }
+ }
+}
